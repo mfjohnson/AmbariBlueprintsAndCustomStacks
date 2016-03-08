@@ -1,0 +1,20 @@
+<!-- SAMPLESRV dummy configurations -->
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+ 
+<configuration>
+
+  <property>
+    <name>stack.log</name>
+    <value>/var/log/SAMPLESRV.log</value>
+    <description>Log file for setup/start/stop scripts</description>
+  </property> 
+
+  <property>
+    <name>SAMPLESRV.adminuser</name>
+    <value>admin</value>
+    <description>Admin user for SAMPLESRV</description>
+  </property> 
+ 
+   
+</configuration>

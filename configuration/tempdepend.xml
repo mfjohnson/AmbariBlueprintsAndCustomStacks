@@ -1,0 +1,4 @@
+               	    <configuration-dependencies>
+                       	<config-type>samplesrv-config</config-type>
+             	    </configuration-dependencies>
+                    <restartRequiredAfterChange>true</restartRequiredAfterChange>   
